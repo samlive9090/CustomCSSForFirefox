@@ -1,4 +1,4 @@
-# CustomCSSforFirefox
+# CustomCSSForFirefox
 Custom CSS For Firefox (SamLiveVersion)
 
 
