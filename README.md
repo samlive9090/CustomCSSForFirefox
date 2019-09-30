@@ -1,5 +1,5 @@
 # CustomCSSForFirefox
-Custom CSS For Firefox (SamLiveVersion)
+**Custom CSS For Firefox (SamLiveVersion)**
 
 
 about:profiles
