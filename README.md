@@ -4,12 +4,12 @@
 
 - about:profiles
 
-- - Root Directory -> Open -> Paste Downloaded Folder
+  - Root Directory -> Open -> Paste Downloaded Folder
 
 
 - about:config 
 
-- - Set toolkit.legacyUserProfileCustomizations.stylesheets = true
+  - Set toolkit.legacyUserProfileCustomizations.stylesheets = true
 
 
 
